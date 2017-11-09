@@ -17,4 +17,6 @@ Make a list of recomandation of the futur changes ?     -Change the header, make
 With your group, present your markdown and the website.
 
 
+![image](http://www.theworldsworstwebsiteever.com/images/logo.gif)
+
 
