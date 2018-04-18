@@ -1,5 +1,7 @@
 # markdown-warmup
 
+Premier exercice pour apprendre à utiliser Github et le markdown
+
 ## First GitHub Exercice
 
 Wich site website ?  -[This one](http://theworldsworstwebsiteever.com/new_page_1.htm)
